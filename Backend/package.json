@@ -1,0 +1,14 @@
+{
+  "name": "node-crud",
+  "version": "1.0.0",
+  "description": "Basic CRUD application with nodejs mongodb expressjs",
+  "main": "server.js",
+  "scripts": {},
+  "author": "Khumarbyek Byeibit",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.9"
+  }
+}
